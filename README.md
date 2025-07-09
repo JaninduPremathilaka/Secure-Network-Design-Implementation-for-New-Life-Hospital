@@ -1,7 +1,9 @@
 # Secure-Network-Design-Implementation-for-New-Life-Hospital
 
 ---
+![image2](https://github.com/user-attachments/assets/e46c4d66-065f-4ec9-aa30-d62d427c62cb)
 
+---
 - **Designed and implemented a multi-floor hospital network with full Wi-Fi coverage and VLAN-based segmentation for departments like HR, IT, and OPD.**
 - **Configured Cisco Layer 2/3 switches with HSRP, VTP, EtherChannel, SSH, and PVST for high availability and secure management.**
 - **Deployed pfSense firewalls for traffic control, proxy filtering, and internet access policies (e.g., social media blocking).**
