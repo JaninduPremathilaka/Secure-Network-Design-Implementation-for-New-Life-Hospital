@@ -5,6 +5,8 @@
 
 A comprehensive network design and implementation project for New Life Hospital, completed as part of my Higher National Diploma in Network Engineering at NIBM Colombo.
 
+![Secure-Network-Design-Implementation-for-New-Life-Hospital](https://github.com/user-attachments/assets/a2c81b75-c385-4903-ad9d-e164428f3713)
+
 ---
 - **Designed and implemented a multi-floor hospital network with full Wi-Fi coverage and VLAN-based segmentation for departments like HR, IT, and OPD.**
 - **Configured Cisco Layer 2/3 switches with HSRP, VTP, EtherChannel, SSH, and PVST for high availability and secure management.**
